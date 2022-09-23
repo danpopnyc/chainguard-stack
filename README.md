@@ -1,5 +1,12 @@
 The java buildpack is hacked together from the CNBP samples repo and tutorials.
 
+# Pre-requisites
+
+Install Pack 
+``` sh 
+brew install buildpacks/tap/pack
+```
+
 # chainguard-stack
 
 ``` sh
